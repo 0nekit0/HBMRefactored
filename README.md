@@ -18,6 +18,6 @@ it is true.
 The release should include at least basic working machines, items, mechanics, and more.
 The expected execution time is at least 30 years.
 
-P.S. I did not create a branch from the main HBM project, because my crooked pens will not be able to rewrite all the code from 1.7.10 to the new versions, so I hope that they will not break my legs...
+P.S. I did not create a branch from the main HBM project, because my crooked hands will not be able to rewrite all the code from 1.7.10 to the new versions, so I hope that they will not break my legs...
 
 ALL MODELS, TEXTURES, IDEAS AND MECHANICS BELONG TO THE ORIGINAL DEVELOPERS
