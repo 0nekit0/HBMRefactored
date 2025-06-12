@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "hbm:item/zirnox_waste_base"
+    }
+}

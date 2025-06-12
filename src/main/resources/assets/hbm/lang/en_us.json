@@ -1,5 +1,6 @@
 {
-  "itemGroup.hbm_resources": "HBM Resources",
+  "itemGroup.hbm_resources": "HBM Resources And Parts",
+  "itemGroup.hbm_machine_items_and_fuel": "HBM Machine Items and Fuel",
   "item.hbm.ingot_steel": "Steel Ingot",
   "item.hbm.ingot_actinium": "Actinium Ingot"
 }
